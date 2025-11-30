@@ -141,7 +141,7 @@ The WG brings together experts in:
 - Data curation and database development
 
 A list of WG members, their affiliations, expertise, and contact areas is available on the  
-**[Members page](members.html)**.
+**[Members page](members.md)**.
 
 ---
 
