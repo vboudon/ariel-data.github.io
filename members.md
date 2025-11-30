@@ -26,17 +26,16 @@ WG members are invited to add or update their own entries via pull requests.
 
 **Expertise & data areas:**
 
-- Molecular line lists for exoplanet and planetary atmospheres (e.g., ExoMol)
+- Molecular line lists for exoplanet and planetary atmospheres (ExoMol,HITRAN)
 - Temperature- and pressure-dependent opacities and cross sections
-- k-tables and opacity products for retrievals and forward models
-- Line broadening and line-shape considerations in high-temperature regimes
 - Coordination between spectroscopic data providers and atmosphere modellers
 
 **Web links:**
 
-- Personal / group page: _[add link]_  
-- Institutional profile (UCL): _[add link]_  
-- ORCID / Google Scholar: _[add links if desired]_
+- Personal / group page: _[https://www.ucl.ac.uk/~ucapsy0/]_  
+- Group page: _[www.exomol.com]_  
+- Institutional profile (UCL): _[https://profiles.ucl.ac.uk/6824-sergey-yurchenko]_  
+- ORCID / Google Scholar: _[https://orcid.org/0000-0001-9286-9501]_
 
 **Contact for questions about:**
 
