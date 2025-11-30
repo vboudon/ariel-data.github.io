@@ -1,3 +1,9 @@
+<p>
+  <img src="assets/img/Ariel_pillars.png"
+       alt="Ariel logo"
+       width="180">
+</p>
+
 # Ariel Spectroscopic Data and Databases Working Group
 
 *Expert spectroscopic support for the ESA Ariel mission and the wider exoplanet community.*
