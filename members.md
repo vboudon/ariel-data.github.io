@@ -5,7 +5,7 @@ WG members are invited to add or update their own entries via pull requests.
 
 ---
 
-## Sergei N. Yurchenko
+## Sergey Yurchenko
 
 <p>
   <img src="assets/members/sergei-yurchenko.jpg"
