@@ -6,8 +6,12 @@ WG members are invited to add or update their own entries via pull requests.
 ---
 
 ## Sergei N. Yurchenko
-```markdown
-![Sergei N. Yurchenko](assets/members/sergei-yurchenko.jpg)
+
+<p align="center">
+  <img src="assets/members/sergei-yurchenko.jpg"
+       alt="Sergei N. Yurchenko"
+       width="180">
+</p>
 
 **Affiliation:** Department of Physics & Astronomy, University College London (UCL), UK  
 **Role:** Coordinator, Ariel Spectroscopic Data and Databases Working Group  
@@ -74,4 +78,4 @@ WG members can copy-paste and edit the template below:
 **Contact for questions about:**
 
 - data type / molecules / methods
-- mission- or instrument-specific topics (if applicable)
+- mission- or instrument-specific topics (if applicable)  
