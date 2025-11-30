@@ -77,34 +77,34 @@ We use **GitHub Issues** in category-specific repositories so that requests and 
 
 The WG maintains several category-specific repositories. Each repository contains links, documentation, and notes on data availability, quality, and open issues.
 
-- **[broadening](https://github.com/Ariel-data/broadening)**  
+- **[broadening](https://github.com/Ariel-data/broadening)** 
   Pressure broadening, line-shape parameters, and related line profile information.
 
-- **[Databases](https://github.com/Ariel-data/Databases)**  
+- **[Databases](https://github.com/Ariel-data/Databases)** 
   Overview of major spectroscopic databases, pointers to relevant entries for Ariel and exoplanet applications.
 
-- **[aerosols](https://github.com/Ariel-data/aerosols)**  
+- **[aerosols](https://github.com/Ariel-data/aerosols)** 
   Optical properties (e.g. refractive indices, single-scattering properties) of particles, condensates, and hazes.
 
-- **[linelists](https://github.com/Ariel-data/linelists)**  
+- **[linelists](https://github.com/Ariel-data/linelists)** 
   Molecular and atomic line lists, transition probabilities, oscillator strengths, and related spectroscopic data.
 
-- **[atmochemistry](https://github.com/Ariel-data/atmochemistry)**  
+- **[atmochemistry](https://github.com/Ariel-data/atmochemistry)** 
   Chemical networks, rate coefficients, and other reaction data relevant for exoplanet atmospheres.
 
-- **[opacities](https://github.com/Ariel-data/opacities)**  
+- **[opacities](https://github.com/Ariel-data/opacities)** 
   Opacity tables, temperature- and pressure-dependent cross sections, k-tables, and related pre-computed products.
 
-- **[HITRAN](https://github.com/Ariel-data/HITRAN)**  
+- **[HITRAN](https://github.com/Ariel-data/HITRAN)** 
   Information and guidance on using HITRAN and related compilations in the context of Ariel and exoplanet studies.
 
-- **[CIA](https://github.com/Ariel-data/CIA)**  
+- **[CIA](https://github.com/Ariel-data/CIA)** 
   Collision-induced absorption (CIA) data, including temperature and pressure dependent cross sections.
 
-- **[UV-cross-sections](https://github.com/Ariel-data/UV-cross-sections)**  
+- **[UV-cross-sections](https://github.com/Ariel-data/UV-cross-sections)** 
   UV and photodissociation cross sections for molecules important in exoplanet atmospheres.
 
-- **[General](https://github.com/Ariel-data/General)**  
+- **[General](https://github.com/Ariel-data/General)** 
   Cross-cutting information, coordination notes, general documentation, and topics that do not fit in a single category.
 
 We encourage data users and providers to follow or watch the relevant repositories and to contribute via issues and pull requests.
@@ -117,8 +117,8 @@ This WG operates within the **ESA Ariel Consortium** to ensure that the mission’
 
 Many of the assessments and links collected here are based on our recent white paper:
 
-> **Data availability and requirements relevant for the Ariel space mission and other exoplanet atmosphere applications**  
-> *RASTI* **3**, 636–690 (2024)  
+> **Data availability and requirements relevant for the Ariel space mission and other exoplanet atmosphere applications** 
+> *RASTI* **3**, 636–690 (2024) 
 > DOI: [10.1093/rasti/rzae039](http://dx.doi.org/10.1093/rasti/rzae039)
 
 We aim to keep this GitHub space **up to date and complementary** to the white paper, reflecting new data, updates, and community input.
@@ -135,12 +135,12 @@ The WG brings together experts in:
 - Atmospheric modelling and retrievals
 - Data curation and database development
 
-A list of WG members, their affiliations, expertise, and contact areas is available on the  
+A list of WG members, their affiliations, expertise, and contact areas is available on the 
 **[Members page](members.md)**.
 
 ---
 
 ## Acknowledgements
 
-We acknowledge support from the **ESA Ariel mission** and the wider exoplanet spectroscopy community.  
+We acknowledge support from the **ESA Ariel mission** and the wider exoplanet spectroscopy community. 
 Please follow the citation and acknowledgement guidance in the relevant repositories and in the white paper when using data coordinated by this WG.
