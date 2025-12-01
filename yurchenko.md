@@ -27,9 +27,9 @@
 
 **Web links:**
 
-- [Personal page:](https://www.ucl.ac.uk/~ucapsy0/)
-- [Group page:] (www.exomol.com)
-- [Institutional profile (UCL):](https://profiles.ucl.ac.uk/6824-sergey-yurchenko)
+- [Personal page](https://www.ucl.ac.uk/~ucapsy0/)
+- [Group page www.exomol.com] (www.exomol.com)
+- [Institutional profile (UCL)](https://profiles.ucl.ac.uk/6824-sergey-yurchenko)
 - ORCID / Google Scholar: _[https://orcid.org/0000-0001-9286-9501]_
 
 **Contact for questions about:**
