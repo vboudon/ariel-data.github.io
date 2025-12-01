@@ -5,7 +5,7 @@ WG members are invited to add or update their own entries via pull requests.
 
 ---
 
-**[Sergey Yurchenko](yurchenko.md)**.
+**[Sergey Yurchenko (UCL)](yurchenko.md)**
 
 
 ## Template for other members
