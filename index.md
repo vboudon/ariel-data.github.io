@@ -27,6 +27,26 @@ This GitHub organisation, **[Ariel-data](https://github.com/Ariel-data)**, is th
 
 ---
 
+## Working Group Members
+
+The WG brings together experts in:
+
+- Molecular and atomic spectroscopy
+- Laboratory astrophysics
+- Theoretical quantum chemistry and nuclear motion calculations
+- Atmospheric modelling and retrievals
+- Data curation and database development
+
+A list of WG members, their affiliations, expertise, and contact areas:
+
+**[Katy Chubb, Bristol (coordinator)](chubb.md)**
+**[Severine Robert, BIRA-IASB (coordinator)](robert.md)**
+**[Clara Sousa Silva, Bard (coordinator)](silva.md)**
+**[Sergey Yurchenko, UCL (coordinator)](yurchenko.md)**
+**[Aleksandra Foltynowicz Matyba, UMU](foltynowicz.md)**
+
+---
+
 ## Spectroscopic Data We Support
 
 We focus on data for **molecules and atoms relevant to exoplanet atmospheres**, particularly those targeted by Ariel and other current/future missions.
@@ -126,21 +146,6 @@ Many of the assessments and links collected here are based on our recent white p
 > DOI: [10.1093/rasti/rzae039](http://dx.doi.org/10.1093/rasti/rzae039)
 
 We aim to keep this GitHub space **up to date and complementary** to the white paper, reflecting new data, updates, and community input.
-
----
-
-## Working Group Members
-
-The WG brings together experts in:
-
-- Molecular and atomic spectroscopy
-- Laboratory astrophysics
-- Theoretical quantum chemistry and nuclear motion calculations
-- Atmospheric modelling and retrievals
-- Data curation and database development
-
-A list of WG members, their affiliations, expertise, and contact areas is available on the  
-**[Members page](members.md)**.
 
 ---
 
