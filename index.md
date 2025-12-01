@@ -39,11 +39,11 @@ The WG brings together experts in:
 
 A list of WG members, their affiliations, expertise, and contact areas:
 
-**[Katy Chubb, Bristol (coordinator)](chubb.md)**
-**[Severine Robert, BIRA-IASB (coordinator)](robert.md)**
-**[Clara Sousa Silva, Bard (coordinator)](silva.md)**
-**[Sergey Yurchenko, UCL (coordinator)](yurchenko.md)**
-**[Aleksandra Foltynowicz Matyba, UMU](foltynowicz.md)**
+- **[Katy Chubb, Bristol (coordinator)](chubb.md)**
+- **[Severine Robert, BIRA-IASB (coordinator)](robert.md)**
+- **[Clara Sousa Silva, Bard (coordinator)](silva.md)**
+- **[Sergey Yurchenko, UCL (coordinator)](yurchenko.md)**
+- **[Aleksandra Foltynowicz Matyba, UMU](foltynowicz.md)**
 
 ---
 
